@@ -1,3 +1,7 @@
+; Name: Dominic McElroy 
+; Date: 5/1/2025
+; Purpose: Assignment 4 
+
 section .data
     prompt db "Enter a string: ", 0
     yes db "Palindrome? Yes", 10, 0
